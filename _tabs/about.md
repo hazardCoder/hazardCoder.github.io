@@ -4,5 +4,16 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+一个无聊的大厂员工，日常就是上班睡觉玩游戏，时不时会锻炼。
+
+
+
+随心分享日常学习、生活。
+
+
+
+## 范围
+
+- **后端**。主要是java，语言是一个工具，在国内还是熟悉业务场景比较重要
+- **日语**。小时候的目标，希望能够在近期有进展吧
+- **小说**。想培养的一个爱好
