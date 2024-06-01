@@ -10,13 +10,13 @@ tags: [后端, 运维, docker]
 
 
 
-# 介绍
+## 介绍
 
 docker是虚拟化容器，基于镜像，可以秒级启动各种容器，每一个容器都是一个完整的运行环境，互相隔离
 
 镜像仓库：https://hub.docker.com/
 
-# 安装
+## 安装
 
 安装文档：https://docs.docker.com/install/linux/docker-ce/centos/
 
@@ -53,13 +53,13 @@ docker是虚拟化容器，基于镜像，可以秒级启动各种容器，每�
    sudo yum install docker-ce docker-ce-cli containerd.io
    ```
 
-# 启动
+## 启动
 
 ```shell
 sudo systemctl start docker
 ```
 
-# 检查
+## 检查
 
 1. 查看docker版本
 
@@ -73,7 +73,7 @@ sudo systemctl start docker
    sudo docker run hello-world
    ```
 
-# 后续设置
+## 后续设置
 
 1. 开机自启
 
